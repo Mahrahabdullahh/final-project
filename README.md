@@ -8,7 +8,7 @@ In today's digital age, instant messaging apps have become an integral part of o
 Launched by Pavel and Nikolai in 2013, Telegram has gained recognition for its strong focus on security and privacy. It also features end-to-end encryption and has a user base of over 500 million; Telegram's commitment to user privacy and its open-source nature has made it a popular platform, especially in regions where privacy concerns are prominent. 
 
 * Voice Commands: Users can initiate chats, send messages,  make calls, and perform various actions within Telegram using voice commands. 
- Enhanced Accessibility: This integration will make Telegram more accessible to individuals with disabilities who may find typing challenging.
+* Enhanced Accessibility: This integration will make Telegram more accessible to individuals with disabilities who may find typing challenging.
 
 # Topics mentioned in the project:
 * Introduction to the Telegram application
